@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.24",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/0876d79618e14083aba571afd06bb02b"
+		},
+		{
+			"Name": "DistanceMatching",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f1a6b1dfec6b4b6caf52ecf0b3350e0b"
+		},
+		{
+			"Name": "FootIK",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/30658ca1ebb647d29973849d70efabe7"
+		},
+		{
+			"Name": "Linter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ca0639af6339476da86fa3bcf15de8ec"
+		},
+		{
+			"Name": "MantlingSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b4f52bfbc42745aa9329f5d2824fb3c2"
+		},
+		{
+			"Name": "PassiveRagdoll",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1d67b511dc0049d792311006379e90d5"
+		},
+		{
+			"Name": "RiderSourceCodeAccess",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/35b0d39e4cee4bccb2dabf04a4c911bb"
+		}
+	]
+}
